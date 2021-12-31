@@ -42,13 +42,14 @@ A national park recommender model is created to provide visitors with suggestion
 ## 4. Potential Users and Applications
 
 National parks are high traffic locations frequented by people for many different reasons. Many just want to enjoy the beautiful scenery certain parks have to offer while others prefer to engage in activities such as camping and hiking. However, the United States has 423 national park locations. Therefore, this model hopes to provide a list of recommended parks based on an individual’s preferences.
+
 This model can be used as an application because it will use user generated input to calculate the ideal parks for people. Information such as activities, weather, and landscapes can be collected to determine a list of parks. By providing accurate results of recommended parks, we hope to minimize the planning and research people may have to undergo prior to selecting a national park. 
 
 ## 5. Implementation
 
 ### 5.1. Gather Data from Kaggle and DSCI 511 Project:
 
-Our first step in the project involved collecting data from 2 different datasets. The first was the Alltrails data - nationalpark.csv from Kaggle, and the second was the nationalpark.csv from a DSCI 511 project. Next we created a dataframe using pandas to store the data.
+Our first step in the project involved collecting data from 2 different datasets. The first was the Alltrails data - nationalpark.csv from Kaggle, and the second was the nationalpark.csv from a web-scraped Wikipedia data on national parks. Next we created a dataframe using pandas to store the data.
 
 alltrails_df = pd.read_csv('AllTrails data - nationalpark.csv')
 parks_df = pd.read_csv('nationalpark.csv')
