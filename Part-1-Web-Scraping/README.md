@@ -1,4 +1,4 @@
-# National & State Parks Guide
+# National & State Parks Data
 
 This project is the term project for DSCI 511 for winter term 2021 at Drexel University, Philadelphia, PA.
 
