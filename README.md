@@ -6,7 +6,8 @@ Stephen Yi, Tien Nguyen, Tuan Huynh, Xi Chen
 Welcome to our national park recommender! Many national parks offer a wide range of experiencese, so we understand that it can be hard to choose which park to visit next.
 Let's go!
 
-TABLE OF CONTENTS
+## Table of Contents
+
 1. Group Background
 2. Abstract
 3. Scope
